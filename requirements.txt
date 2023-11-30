@@ -7,7 +7,7 @@ django-cors-headers
 djangorestframework==3.14.0
 filelock==3.9.1
 gunicorn==21.2.0
-Markdown==3.5.1
+Markdown==3.4.4
 packaging==23.2
 Pillow==9.4.0
 platformdirs==3.1.1
