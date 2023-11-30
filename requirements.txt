@@ -1,7 +1,7 @@
 asgiref==3.6.0
 cffi==1.15.1
 distlib==0.3.6
-Django==4.1.7
+Django
 django-braces==1.15.0
 django-cors-headers==4.3.1
 djangorestframework==3.14.0
@@ -18,3 +18,4 @@ sqlparse==0.4.3
 tzdata==2022.7
 virtualenv==20.21.0
 whitenoise==6.4.0
+pip== 23.3.1
